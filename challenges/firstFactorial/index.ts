@@ -8,4 +8,4 @@ function FirstFactorial(num: number) {
   return factorial
 }
 
-console.log(FirstFactorial(4))
+console.log('FirstFactorial -> ', FirstFactorial(4))
